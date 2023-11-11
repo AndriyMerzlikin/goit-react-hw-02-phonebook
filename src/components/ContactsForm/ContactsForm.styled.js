@@ -21,5 +21,5 @@ export const FormGroup = styled.label`
 
 export const ErrorMsg = styled(ErrorMessage)`
   color: red;
-  font-size: 12px;
+  font-size: ;
 `;
